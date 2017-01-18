@@ -3,3 +3,5 @@
 [plugin]
 [blah1]
 [blah2]
+[new]
+
