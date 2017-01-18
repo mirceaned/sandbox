@@ -1,3 +1,5 @@
 [empty]
 [core]
 [plugin]
+[blah1]
+[blah2]
